@@ -17,7 +17,7 @@ Welcome to my **90 Days DSA Challenge**, by **Rahul Kumar** — solving problems
 
 Hi 👋 I’m **Rahul Kumar**, a passionate **MERN Stack Developer** constantly improving my problem-solving skills.  
 
-Today marks the beginning of my **90 Days DSA Challenge**, where I’ll dedicate at least **1 hour every day** to learning **Data Structures & Algorithms (DSA)** using **JavaScript (ES6)**.  
+Today marks the beginning of my **90 Days DSA Challenge**, where I’ll dedicate  to learning **Data Structures & Algorithms (DSA)** using **JavaScript (ES6)**.  
 
 After exploring multiple roadmaps and resources, I chose **Namaste DSA by Akshay Saini** — a structured and beginner-friendly way to master DSA from the ground up.  
 
