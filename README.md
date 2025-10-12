@@ -1,44 +1,60 @@
-🚀 90 Days DSA Challenge
+# 🚀 Rahul Kumar – 90 Days DSA Challenge  
 
-Welcome to my 90 Days DSA Challenge, by Rahul Kumar: Solving problems daily, sharing my learnings, and inspiring other developers to strengthen their problem-solving skills through DSA.
+Welcome to my **90 Days DSA Challenge**, by **Rahul Kumar** — solving problems daily, sharing my learnings, and inspiring other developers to strengthen their problem-solving skills through DSA.  
 
-🧭 Goal
+---
 
-Strengthen my problem-solving skills
+## 🧭 Goal  
 
-Build a solid foundation in Data Structures & Algorithms
+- Strengthen my problem-solving skills  
+- Build a solid foundation in Data Structures & Algorithms  
+- Stay consistent for 90 days  
+- Share knowledge and progress with the community  
 
-Stay consistent for 90 days
+---
 
-Share knowledge and progress with the community
+## 🚀 My DSA Journey  
 
-🚀 My DSA Journey
+Hi 👋 I’m **Rahul Kumar**, a passionate **MERN Stack Developer** constantly improving my problem-solving skills.  
 
-Hi 👋 I’m Rahul Kumar, a passionate MERN Stack Developer always exploring ways to improve as a problem solver.
-Today marks the beginning of my 90 Days DSA Challenge, where I’ll dedicate every day to learning Data Structures & Algorithms (DSA) using JavaScript (ES6).
+Today marks the beginning of my **90 Days DSA Challenge**, where I’ll dedicate at least **1 hour every day** to learning **Data Structures & Algorithms (DSA)** using **JavaScript (ES6)**.  
 
-After exploring multiple resources and roadmaps, I chose to follow Namaste DSA by Akshay Saini — a structured and beginner-friendly way to understand DSA from the ground up.
+After exploring multiple roadmaps and resources, I chose **Namaste DSA by Akshay Saini** — a structured and beginner-friendly way to master DSA from the ground up.  
 
-This repository will serve as a transparent record of my journey — including code, notes, and daily progress — to help others learning DSA in JavaScript.
+This repository will serve as a transparent record of my journey — including code, notes, and daily progress — to help others learning DSA in JavaScript.  
 
-📘 What You’ll Find Here
+---
 
-✅ Daily problems I solve
-✅ Step-by-step explanations & approaches
-✅ Code solutions in JavaScript (ES6)
-✅ Helpful learning resources
+## 📘 What You’ll Find Here  
 
-🛠️ Tech Stack
+✅ Daily problems I solve  
+✅ Step-by-step explanations & approaches  
+✅ Code solutions in **JavaScript (ES6)**  
+✅ Helpful learning resources  
 
-Language: JavaScript (ES6+)
+---
 
-Tools: VS Code, GitHub
+## 🛠️ Tech Stack  
 
-📚 Resources I’m Using
+- **Language:** JavaScript (ES6+)  
+- **Tools:** VS Code, GitHub  
 
-Namaste DSA by Akshay Saini
+---
 
-YouTube playlists & problem-solving channels
+## 📚 Resources I’m Using  
 
-ChatGPT for guidance and concept clarification 😉
-LeetCode
+- Namaste DSA by Akshay Saini
+- YouTube playlists & problem-solving channels  
+- ChatGPT for guidance and concept clarification 😉
+- LeetCode  
+
+---
+
+
+
+> 🧠 *“Consistency is the key. Every line of code, every problem solved, takes you one step closer to mastery.”*  
+
+---
+
+### ⭐ Support  
+If you find this repository helpful, don’t forget to **star ⭐ the repo** and follow my journey. Let’s grow together!  
