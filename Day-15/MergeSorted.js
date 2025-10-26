@@ -9,5 +9,5 @@ let nums1 = [1,2,3,0,0,0];
 let m=3;
 let nums2 = [2,5,9];
 let n=3;
-merge(nums1,m,nums2,n)
+merge(nums1,m,nums2,n);
 console.log(nums1);
